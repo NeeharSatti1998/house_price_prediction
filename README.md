@@ -1,4 +1,5 @@
-# Ames Housing Price Prediction — End-to-End Regression Pipeline
+# Ames Housing Price Prediction
+## An End-to-End Regression Pipeline
 
 This project implements a complete regression pipeline to predict house prices in Ames, Iowa, using the Ames Housing dataset from Kaggle:  
 https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/data
